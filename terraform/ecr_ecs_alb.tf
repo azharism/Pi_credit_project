@@ -1,0 +1,1 @@
+# ECR, ECS, ALB, Task, Service resources (already shared in chat)
