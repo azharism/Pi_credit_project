@@ -14,5 +14,4 @@ ENV PORT=8080
 EXPOSE 8080
 CMD ["gunicorn", "--bind", "0.0.0.0:8080", "app:app"]
 
-AKIA2UC3DHRWU23M6IGT
-C5jTPVjSlFnjKXmlvUSrKCux23i/dhik1+7LEdmV
+
